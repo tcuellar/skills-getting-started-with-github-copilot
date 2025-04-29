@@ -39,35 +39,41 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "Pickleball": {
-        "description": "Learn and play the exciting sport of pickleball",
-        "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
-        "max_participants": 16,
-        "participants": ["amelia@mergington.edu"]
-    },
-    "Soccer": {
-        "description": "Practice soccer skills and participate in friendly matches",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+    "Soccer Team": {
+        "description": "Join the school soccer team and compete in matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 22,
-        "participants": ["liam@mergington.edu"]
+        "participants": ["liam@mergington.edu", "noah@mergington.edu"]
     },
-    "Basketball": {
-        "description": "Develop basketball techniques and play games",
-        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+    "Basketball Team": {
+        "description": "Practice and compete in basketball tournaments",
+        "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
-        "participants": ["noah@mergington.edu"]
+        "participants": ["ava@mergington.edu", "mia@mergington.edu"]
     },
-    "Music Class": {
-        "description": "Learn to play musical instruments and perform in a band",
-        "schedule": "Fridays, 2:00 PM - 3:30 PM",
+    "Art Club": {
+        "description": "Explore various art techniques and create masterpieces",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["amelia@mergington.edu", "isabella@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Participate in plays and improve acting skills",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["elijah@mergington.edu", "charlotte@mergington.edu"]
+    },
+    "Math Club": {
+        "description": "Solve challenging math problems and prepare for competitions",
+        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
         "max_participants": 10,
-        "participants": ["isabella@mergington.edu"]
+        "participants": ["james@mergington.edu", "lucas@mergington.edu"]
     },
-    "Drone Racing": {
-        "description": "Learn to pilot drones and compete in thrilling races",
-        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
-        "max_participants": 8,
-        "participants": ["ethan@mergington.edu"]
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["harper@mergington.edu", "evelyn@mergington.edu"]
     }
 }
 
